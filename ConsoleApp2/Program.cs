@@ -19,6 +19,8 @@ namespace ConsoleApp2
             Console.WriteLine(a+b);
 
             Console.WriteLine(a*b);
+
+            Console.WriteLine("22222222222");
         }
     }
 }
